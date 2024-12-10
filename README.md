@@ -1,2 +1,2 @@
 # SpotifyData
-Hi chat
+Accurate Spotify statistics using IFTTT
